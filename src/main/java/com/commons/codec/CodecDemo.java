@@ -1,4 +1,4 @@
-package com.commons.codecDemo;
+package com.commons.codec;
 
 
 import org.apache.commons.codec.DecoderException;
